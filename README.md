@@ -1,5 +1,5 @@
 <p>Hi there! I'm <b>Kyle Lierer</b>.</p>
-<p>I'm a <b>Computer Science</b> undergraduate student at <a href="http://www.miamioh.edu/">Miami University</a> in Oxford, <b>Ohio</b>.</p>
+<p>I'm an undergraduate <b>Computer Science</b> student at <a href="http://www.miamioh.edu/">Miami University</a> in Oxford, <b>Ohio</b>.</p>
 <p>I am passionate about <b>technology</b>, <b>design</b>, and helping <b>impact</b> people through the utilization of technology.</p>
 <hr>
 
